@@ -1,0 +1,12 @@
+body{
+    background-color: silver;
+    font-size: 30px;
+    text-align: center;
+}
+body fieldset{
+    background-color: bisque;
+}
+body fieldset input{
+    background-color: lightgray;
+    font-size: 20px;
+}

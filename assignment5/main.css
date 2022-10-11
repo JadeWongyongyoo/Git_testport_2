@@ -1,0 +1,30 @@
+body
+{ 
+    background-color: hwb(8 23% 46%);
+}
+#topic1
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;  
+    color: rgb(255, 255, 255);
+    
+}
+#comment1
+{
+    text-align: center;
+    font-size: 30px;  
+    color: rgb(235, 201, 201);
+}
+#comment2
+{
+    font-size: 30px;  
+    text-align: left;
+    color: rgb(235, 201, 201);
+}
+hr
+{
+    background-color: rgb(0, 0, 0);
+    border-radius: 25px;
+    height: 5px;
+}
